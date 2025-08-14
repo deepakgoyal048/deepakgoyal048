@@ -1,4 +1,4 @@
-< img src="github-header-banner.png">
+<img src="https://github.com/deepakgoyal048/deepakgoyal048/blob/main/github-header-banner.png">
 <h1 align="center">Hi 👋, I'm deepak goyal</h1>
 <h3 align="center">A passionate coder from Jaipur,Rajasthan</h3>
 
